@@ -25,3 +25,6 @@ http://127.0.0.1:8000/docs
 
 http://127.0.0.1:8000/redoc
 ```
+
+### 레퍼런스
+https://fastapi.tiangolo.com/ko/#api_2
